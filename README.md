@@ -1,1 +1,2 @@
-# Nvidia-LLM
+# Building RAG with LLMs
+Nvidia coursework
